@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "5779a523107a58bb3e50b8000724e50d"
+build_time: [1602438925, 233044000]
+inputs:
+  "/Users/YoniZetune/Develop/acc/DiceRoller/dice_roller/ios/Runner/AppDelegate.swift": [1571084233, 785902918]
